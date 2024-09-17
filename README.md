@@ -1,2 +1,2 @@
 # latihan-kolaborasi
-latihan kolaborasi
+latihan kolaborasi 1
