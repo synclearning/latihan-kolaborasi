@@ -1,2 +1,2 @@
 # latihan-kolaborasi
-Belajar GitHub di Dicoding sangat menyenangkan
+Latihan code review
