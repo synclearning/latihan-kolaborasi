@@ -1,2 +1,2 @@
 # latihan-kolaborasi
-latihan kolaborasi 3
+Melakukan latihan code review
